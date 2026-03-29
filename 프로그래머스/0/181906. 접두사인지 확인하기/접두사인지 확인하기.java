@@ -10,3 +10,5 @@ class Solution {
         return 0;
     }
 }
+
+// startsWith 쓰는게 제일 깔끔하네

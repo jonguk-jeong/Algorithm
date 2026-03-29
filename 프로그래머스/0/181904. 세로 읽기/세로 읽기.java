@@ -10,3 +10,9 @@ class Solution {
         return answer;
     }
 }
+
+// 이게 더 간단할 듯??
+
+// for (int i = c - 1; i < my_string.length(); i += m) {
+//     answer += my_string.charAt(i);
+// }

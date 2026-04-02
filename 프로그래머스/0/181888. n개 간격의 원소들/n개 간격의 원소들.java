@@ -10,3 +10,6 @@ class Solution {
         return answer;
     }
 }
+
+// 소수점 올리는 거 삼항연산자도 좋은것 같다
+// int N = num_list.length % n == 0 ? num_list.length / n : num_list.length / n + 1;

@@ -31,3 +31,6 @@ class Solution {
         return answer;
     }
 }
+
+// Arrays.copyOfRange(str_list, 0, i);
+// 이거 사용하자

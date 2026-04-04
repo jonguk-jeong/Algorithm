@@ -11,3 +11,5 @@ class Solution {
         return strArr;
     }
 }
+
+// 이놈도 삼항 연산자면 한줄 가능

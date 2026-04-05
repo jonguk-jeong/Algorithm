@@ -10,3 +10,5 @@ class Solution {
         return answer;
     }
 }
+
+// startswith 활용해도 좋을 듯?

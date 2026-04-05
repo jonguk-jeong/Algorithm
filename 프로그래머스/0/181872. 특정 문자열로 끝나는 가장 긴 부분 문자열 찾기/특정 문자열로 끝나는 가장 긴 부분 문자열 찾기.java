@@ -12,3 +12,6 @@ class Solution {
         return "";
     }
 }
+
+// lastIndexOf 배웠다
+ // int idx = myString.lastIndexOf(pat);

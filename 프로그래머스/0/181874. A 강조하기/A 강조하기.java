@@ -14,3 +14,7 @@ class Solution {
         return answer;
     }
 }
+
+// 반복문 필요 없네
+// myString = myString.toLowerCase();
+// return myString.replace("a", "A");

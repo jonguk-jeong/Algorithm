@@ -18,3 +18,5 @@ class Solution {
         return answer;
     }
 }
+
+// 배열 말고 리스트로 반환해도 되는가본데??

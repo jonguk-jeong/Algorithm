@@ -27,3 +27,5 @@ class Solution {
         return answer;
     }
 }
+
+// return new int[]{-1}; 한줄로 가능하네

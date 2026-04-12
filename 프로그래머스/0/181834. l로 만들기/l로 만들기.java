@@ -12,3 +12,6 @@ class Solution {
         return answer;
     }
 }
+
+// 정규식 표현도 있음
+// return myString.replaceAll("[^l-z]", "l");

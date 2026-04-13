@@ -29,3 +29,9 @@ class Solution {
         return answer;
     }
 }
+
+// 한번에 처리 가능
+// if (i >= arr.length || j >= arr[0].length)
+//     answer[i][j] = 0;
+
+// 배열의 기본 값은 0이니까 안채워도 되기도 하고

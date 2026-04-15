@@ -20,3 +20,5 @@ class Solution {
         return answer;
     }
 }
+
+// answer += "" + n; 하면 됨..

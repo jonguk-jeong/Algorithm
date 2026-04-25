@@ -13,3 +13,5 @@ class Solution {
         return answer;
     }
 }
+
+// 어차피 정렬할꺼니까 처음부터 잘라도 됨

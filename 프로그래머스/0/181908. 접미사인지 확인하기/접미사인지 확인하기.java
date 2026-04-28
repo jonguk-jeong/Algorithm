@@ -9,3 +9,5 @@ class Solution {
         return 0;
     }
 }
+
+// my_string.endsWith(is_suffix) 메서드 가능

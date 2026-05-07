@@ -8,13 +8,13 @@ class Solution {
     }
     
     public void dfs(int[] numbers, int target, int sum, int index) {
-        // 종료 조건
         if (index == numbers.length) {
-            if (sum == target) answer++;
+            if (sum == target) {
+                answer++;
+            }
             return;
         }
-        
-        // 중간
+
         dfs(numbers, target, sum + numbers[index], index + 1);
         dfs(numbers, target, sum - numbers[index], index + 1);
     }

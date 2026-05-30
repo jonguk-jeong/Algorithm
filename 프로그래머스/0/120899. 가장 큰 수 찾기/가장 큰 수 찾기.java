@@ -13,3 +13,5 @@ class Solution {
         return answer;
     }
 }
+
+// if(array[i] > answer[0])

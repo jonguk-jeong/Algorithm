@@ -9,8 +9,9 @@ class Solution {
             }
             order /= 10;
         }
-        if (order%3 == 0) answer++;
         
+        if (order%3 == 0) answer++;
+    
         return answer;
     }
 }
